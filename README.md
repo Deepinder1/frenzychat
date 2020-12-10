@@ -1,7 +1,6 @@
 # flutterchatapp
 
-A new Flutter project.
-
+this is only ui of chat app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
